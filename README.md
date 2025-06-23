@@ -32,6 +32,8 @@
 ---
 
 ## 프로젝트 구조
+
+
 📁 TermProject_2271246_kimsojin
 ├── 📁 ViewController
 │   ├── MainViewController.swift
@@ -45,3 +47,4 @@
 ├── 📁 Utils
 │   └── ScheduleStorage.swift
 └── 📁 Assets / Storyboard / Info.plist 등
+
