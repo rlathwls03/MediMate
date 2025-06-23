@@ -31,13 +31,7 @@
 
 ---
 
-## 🔍 주요 로직
-
-### 🔠 OCR 및 약 후보 추출
-```swift
-let cleaned = text.replacingOccurrences(of: "[^가-힣a-zA-Z0-9\\s]", with: " ", options: .regularExpression)
-let regex = try? NSRegularExpression(pattern: #"[\w()가-힣]+"#)
-
+## 프로젝트 구조
 📁 TermProject_2271246_kimsojin
 ├── 📁 ViewController
 │   ├── MainViewController.swift
